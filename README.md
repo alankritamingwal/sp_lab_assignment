@@ -19,7 +19,8 @@ packages installation command:-pacman -S gdb,pacaman -S yasm,pacman -S binutils,
 4. gdb ./ascii
 5. break end
 6. run
-7. info register ---->to see the output store in register
+7. info register
+8. to see the output on screen use ./ascii command
 
 
 # Q3 :- COMMAND REQUIRED TO RUN C PROGRAM TAIL -N WHICH WILL PRINT LAST N LINE OF INPUT
